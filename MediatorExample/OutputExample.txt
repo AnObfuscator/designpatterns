@@ -1,0 +1,22 @@
+Patron asks waiter for suggestion.
+Waiter goes to cook for suggestions.
+Cook suggests STEAK.
+Waiter conveys suggestion of STEAK.
+Patron considers suggestion of STEAK.
+Patron orders suggested meal of STEAK.
+Waiter puts in order of STEAK to cook.
+Cook prepares HAMBURGER
+Waiter brings meal of HAMBURGER.
+Patron complains that he was served HAMBURGER instead of STEAK.
+Waiter conveys complaint to cook. Replace order for STEAK.
+Cook prepares FRIED_CHICKEN
+Waiter brings meal of FRIED_CHICKEN.
+Patron complains that he was served FRIED_CHICKEN instead of STEAK.
+Waiter conveys complaint to cook. Replace order for STEAK.
+Cook prepares FRIED_CHICKEN
+Waiter brings meal of FRIED_CHICKEN.
+Patron complains that he was served FRIED_CHICKEN instead of STEAK.
+Waiter conveys complaint to cook. Replace order for STEAK.
+Cook prepares STEAK
+Waiter brings meal of STEAK.
+Patron eats meal of STEAK.
