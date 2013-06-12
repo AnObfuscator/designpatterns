@@ -1,0 +1,12 @@
+Mediator:
+
+
+Mediator Examples:
+-- GUI main window mediates messages sent between elements
+-- Chatroom is a mediator between participants, broadcasting one message to many connections
+-- message queue passes messages between producers and consumers
+-- printer system
+
+Notes:
+-- Facade pattern is a degenerate Mediator pattern.
+-- Mediator is very similar to Observer pattern.
