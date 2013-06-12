@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="mockito">
+    <CLASSES>
+      <root url="file://$USER_HOME$/software/MockingFrameworks/mockito" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/software/MockingFrameworks/mockito/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/software/MockingFrameworks/mockito" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/software/MockingFrameworks/mockito" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/software/MockingFrameworks/mockito" recursive="false" type="SOURCES" />
+  </library>
+</component>
